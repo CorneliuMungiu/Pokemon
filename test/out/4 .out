@@ -1,0 +1,769 @@
+----------------------Step1----------------------
+Jigglypuff normalAttack / Neutrel2 ability1 / 
+	Jigglypuff HP 34 (34 - 0), 
+	Neutrel2 HP 17 (20 - 3), 
+----------------------Step2----------------------
+Jigglypuff normalAttack / Neutrel2 normalAttack / 
+	Jigglypuff HP 32 (34 - 2), 
+	Neutrel2 HP 14 (17 - 3), 
+----------------------Step3----------------------
+Jigglypuff ability2 / Neutrel2 ability2 / 
+	Jigglypuff HP 32 (32 - 0), abilitate 2 cooldown 4 
+	Neutrel2 HP 11 (14 - 3), 
+----------------------Step4----------------------
+Jigglypuff ability1 / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Jigglypuff HP 32 (32 - 0), abilitate 2 cooldown 3 
+	Neutrel2 HP 7 (11 - 4), 
+----------------------Step5----------------------
+Jigglypuff ability1 / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Jigglypuff HP 32 (32 - 0), abilitate 2 cooldown 2 
+	Neutrel2 HP 3 (7 - 4), 
+----------------------Step6----------------------
+Jigglypuff ability1 / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Jigglypuff HP 32 (32 - 0), abilitate 2 cooldown 1 
+	Neutrel2 HP -1 (3 - 4), 
+Andrei Wins
+----------------------Step1----------------------
+Pikachu specialAttack / Neutrel2 ability2 / 
+	Pikachu HP 35 (35 - 0), 
+	Neutrel2 HP 17 (20 - 3), 
+----------------------Step2----------------------
+Pikachu ability2 / Neutrel2 ability2 / 
+Pikachu dodge is active this round
+	Pikachu HP 35 (35 - 0), abilitate 2 cooldown 5 
+	Neutrel2 HP 13 (17 - 4), 
+----------------------Step3----------------------
+Pikachu specialAttack / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Pikachu HP 35 (35 - 0), abilitate 2 cooldown 4 
+	Neutrel2 HP 10 (13 - 3), 
+----------------------Step4----------------------
+Pikachu ability1 / Neutrel2 ability2 / 
+	Pikachu HP 35 (35 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Neutrel2 HP 4 (10 - 6), 
+----------------------Step5----------------------
+Pikachu specialAttack / Neutrel2 ability2 / 
+	Pikachu HP 35 (35 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Neutrel2 HP 1 (4 - 3), 
+----------------------Step6----------------------
+Pikachu specialAttack / Neutrel2 normalAttack / 
+	Pikachu HP 33 (35 - 2), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+	Neutrel2 HP -2 (1 - 3), 
+David Wins
+----------------------Step1----------------------
+Snorlax normalAttack / Neutrel2 normalAttack / 
+	Snorlax HP 62 (62 - 0), 
+	Neutrel2 HP 18 (20 - 2), 
+----------------------Step2----------------------
+Snorlax ability1 / Neutrel2 ability1 / 
+	Snorlax HP 62 (62 - 0), abilitate 1 cooldown 5 
+	Neutrel2 HP 14 (18 - 4), 
+----------------------Step3----------------------
+Snorlax ability2 / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Snorlax HP 62 (62 - 0), abilitate 1 cooldown 4 
+	Neutrel2 HP 14 (14 - 0), 
+----------------------Step4----------------------
+Snorlax normalAttack / Neutrel2 ability2 / 
+	Snorlax HP 62 (62 - 0), abilitate 1 cooldown 3 
+	Neutrel2 HP 12 (14 - 2), 
+----------------------Step5----------------------
+Snorlax normalAttack / Neutrel2 normalAttack / 
+	Snorlax HP 62 (62 - 0), abilitate 1 cooldown 2 
+	Neutrel2 HP 10 (12 - 2), 
+----------------------Step6----------------------
+Snorlax normalAttack / Neutrel2 ability2 / 
+	Snorlax HP 62 (62 - 0), abilitate 1 cooldown 1 
+	Neutrel2 HP 8 (10 - 2), 
+----------------------Step7----------------------
+Snorlax ability2 / Neutrel2 normalAttack / 
+Snorlax dodge is active this round
+	Snorlax HP 62 (62 - 0), abilitate 2 cooldown 5 
+	Neutrel2 HP 8 (8 - 0), 
+----------------------Step8----------------------
+Snorlax ability1 / Neutrel2 ability1 / 
+	Snorlax HP 62 (62 - 0), abilitate 1 cooldown 5 abilitate 2 cooldown 4 
+	Neutrel2 HP 4 (8 - 4), 
+----------------------Step9----------------------
+Snorlax normalAttack / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Snorlax HP 62 (62 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Neutrel2 HP 2 (4 - 2), 
+----------------------Step10----------------------
+Snorlax normalAttack / Neutrel2 normalAttack / 
+	Snorlax HP 62 (62 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Neutrel2 HP 0 (2 - 2), 
+Andrei Wins
+----------------------Step1----------------------
+Squirtle ability1 / Neutrel2 normalAttack / 
+	Squirtle HP 60 (60 - 0), abilitate 1 cooldown 3 
+	Neutrel2 HP 16 (20 - 4), 
+----------------------Step2----------------------
+Squirtle ability2 / Neutrel2 ability2 / 
+	Squirtle HP 60 (60 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 2 
+	Neutrel2 HP 14 (16 - 2), 
+----------------------Step3----------------------
+Squirtle specialAttack / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Squirtle HP 60 (60 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 1 
+	Neutrel2 HP 12 (14 - 2), 
+----------------------Step4----------------------
+Squirtle specialAttack / Neutrel2 ability1 / 
+	Squirtle HP 60 (60 - 0), 
+	Neutrel2 HP 10 (12 - 2), 
+----------------------Step5----------------------
+Squirtle specialAttack / Neutrel2 ability2 / 
+	Squirtle HP 60 (60 - 0), 
+	Neutrel2 HP 8 (10 - 2), 
+----------------------Step6----------------------
+Squirtle ability1 / Neutrel2 normalAttack / 
+	Squirtle HP 60 (60 - 0), abilitate 1 cooldown 3 
+	Neutrel2 HP 4 (8 - 4), 
+----------------------Step7----------------------
+Squirtle ability2 / Neutrel2 ability1 / 
+	Squirtle HP 60 (60 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 2 
+	Neutrel2 HP 2 (4 - 2), 
+----------------------Step8----------------------
+Squirtle specialAttack / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Squirtle HP 60 (60 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 1 
+	Neutrel2 HP 0 (2 - 2), 
+David Wins
+[][][][][][][][][][][][][] ROUND1 [][][][][][][][][][][][][]
+Jigglypuff has these items[]
++0 hp; +0 normalAttack; +0 defense; +0 specialDefense
+Pikachu has these items[(Vesta)]
++10 hp; +0 specialAttack; +0 defense; +0 specialDefense
+----------------------Step1----------------------
+Jigglypuff ability1 / Pikachu specialAttack / 
+	Jigglypuff HP 33 (34 - 1), abilitate 1 cooldown 4 
+	Pikachu HP 41 (45 - 4), 
+----------------------Step2----------------------
+Jigglypuff ability2 / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Jigglypuff HP 33 (33 - 0), abilitate 1 cooldown 3 
+	Pikachu HP 38 (41 - 3), 
+----------------------Step3----------------------
+Jigglypuff ability2 / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Jigglypuff HP 33 (33 - 0), abilitate 1 cooldown 2 
+	Pikachu HP 35 (38 - 3), 
+----------------------Step4----------------------
+Jigglypuff ability2 / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Jigglypuff HP 33 (33 - 0), abilitate 1 cooldown 1 
+	Pikachu HP 32 (35 - 3), 
+----------------------Step5----------------------
+Jigglypuff normalAttack / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Jigglypuff HP 33 (33 - 0), 
+	Pikachu HP 30 (32 - 2), 
+----------------------Step6----------------------
+Jigglypuff ability1 / Pikachu ability1 / 
+	Jigglypuff HP 27 (33 - 6), abilitate 1 cooldown 4 
+	Pikachu HP 26 (30 - 4), abilitate 1 cooldown 4 
+----------------------Step7----------------------
+Jigglypuff ability2 / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Jigglypuff HP 27 (27 - 0), abilitate 1 cooldown 3 
+	Pikachu HP 23 (26 - 3), abilitate 1 cooldown 3 
+----------------------Step8----------------------
+Jigglypuff ability2 / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Jigglypuff HP 27 (27 - 0), abilitate 1 cooldown 2 
+	Pikachu HP 20 (23 - 3), abilitate 1 cooldown 2 
+----------------------Step9----------------------
+Jigglypuff ability2 / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Jigglypuff HP 27 (27 - 0), abilitate 1 cooldown 1 
+	Pikachu HP 17 (20 - 3), abilitate 1 cooldown 1 
+----------------------Step10----------------------
+Jigglypuff normalAttack / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Jigglypuff HP 27 (27 - 0), 
+	Pikachu HP 15 (17 - 2), 
+----------------------Step11----------------------
+Jigglypuff normalAttack / Pikachu ability1 / 
+	Jigglypuff HP 21 (27 - 6), 
+	Pikachu HP 13 (15 - 2), abilitate 1 cooldown 4 
+----------------------Step12----------------------
+Jigglypuff ability1 / Pikachu specialAttack / 
+	Jigglypuff HP 20 (21 - 1), abilitate 1 cooldown 4 
+	Pikachu HP 9 (13 - 4), abilitate 1 cooldown 3 
+----------------------Step13----------------------
+Jigglypuff normalAttack / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Jigglypuff HP 20 (20 - 0), abilitate 1 cooldown 3 
+	Pikachu HP 7 (9 - 2), abilitate 1 cooldown 2 
+----------------------Step14----------------------
+Jigglypuff normalAttack / Pikachu ability2 / 
+Pikachu dodge is active this round
+	Jigglypuff HP 16 (20 - 4), abilitate 1 cooldown 2 
+	Pikachu HP 7 (7 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 5 
+----------------------Step15----------------------
+Jigglypuff normalAttack / Pikachu specialAttack / 
+Jigglypuff is stunned this round
+	Jigglypuff HP 15 (16 - 1), abilitate 1 cooldown 1 
+	Pikachu HP 7 (7 - 0), abilitate 2 cooldown 4 
+----------------------Step16----------------------
+Jigglypuff ability2 / Pikachu ability1 / 
+	Jigglypuff HP 9 (15 - 6), abilitate 2 cooldown 4 
+	Pikachu HP 4 (7 - 3), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+----------------------Step17----------------------
+Jigglypuff ability1 / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Jigglypuff HP 9 (9 - 0), abilitate 2 cooldown 3 
+	Pikachu HP 0 (4 - 4), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+Andrei Wins
+[][][][][][][][][][][][][] ROUND2 [][][][][][][][][][][][][]
+Snorlax has these items[(Scut)]
++0 hp; +0 normalAttack; +2 defense; +2 specialDefense
+Squirtle has these items[(Sabiuta)]
++0 hp; +0 specialAttack; +0 defense; +0 specialDefense
+----------------------Step1----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 60 (62 - 2), 
+	Squirtle HP 60 (60 - 0), abilitate 2 cooldown 2 
+----------------------Step2----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Snorlax is stunned this round
+	Snorlax HP 60 (60 - 0), 
+	Squirtle HP 60 (60 - 0), abilitate 2 cooldown 1 
+----------------------Step3----------------------
+Snorlax ability2 / Squirtle specialAttack / 
+Snorlax dodge is active this round
+	Snorlax HP 60 (60 - 0), abilitate 2 cooldown 5 
+	Squirtle HP 60 (60 - 0), 
+----------------------Step4----------------------
+Snorlax ability1 / Squirtle ability1 / 
+	Snorlax HP 56 (60 - 4), abilitate 1 cooldown 5 abilitate 2 cooldown 4 
+	Squirtle HP 56 (60 - 4), abilitate 1 cooldown 3 
+----------------------Step5----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+	Snorlax HP 56 (56 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Squirtle HP 56 (56 - 0), abilitate 1 cooldown 2 
+----------------------Step6----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 54 (56 - 2), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Squirtle HP 56 (56 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+----------------------Step7----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Snorlax is stunned this round
+	Snorlax HP 54 (54 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+	Squirtle HP 56 (56 - 0), abilitate 2 cooldown 1 
+----------------------Step8----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 54 (54 - 0), abilitate 1 cooldown 1 
+	Squirtle HP 56 (56 - 0), 
+----------------------Step9----------------------
+Snorlax ability2 / Squirtle ability2 / 
+Snorlax dodge is active this round
+	Snorlax HP 54 (54 - 0), abilitate 2 cooldown 5 
+	Squirtle HP 56 (56 - 0), abilitate 2 cooldown 2 
+----------------------Step10----------------------
+Snorlax ability1 / Squirtle ability1 / 
+	Snorlax HP 50 (54 - 4), abilitate 1 cooldown 5 abilitate 2 cooldown 4 
+	Squirtle HP 52 (56 - 4), abilitate 1 cooldown 3 abilitate 2 cooldown 1 
+----------------------Step11----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+	Snorlax HP 50 (50 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Squirtle HP 52 (52 - 0), abilitate 1 cooldown 2 
+----------------------Step12----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 48 (50 - 2), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Squirtle HP 52 (52 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+----------------------Step13----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Snorlax is stunned this round
+	Snorlax HP 48 (48 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+	Squirtle HP 52 (52 - 0), abilitate 2 cooldown 1 
+----------------------Step14----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 48 (48 - 0), abilitate 1 cooldown 1 
+	Squirtle HP 52 (52 - 0), 
+----------------------Step15----------------------
+Snorlax ability2 / Squirtle specialAttack / 
+Snorlax dodge is active this round
+	Snorlax HP 48 (48 - 0), abilitate 2 cooldown 5 
+	Squirtle HP 52 (52 - 0), 
+----------------------Step16----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 48 (48 - 0), abilitate 2 cooldown 4 
+	Squirtle HP 52 (52 - 0), 
+----------------------Step17----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 46 (48 - 2), abilitate 2 cooldown 3 
+	Squirtle HP 52 (52 - 0), abilitate 2 cooldown 2 
+----------------------Step18----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Snorlax is stunned this round
+	Snorlax HP 46 (46 - 0), abilitate 2 cooldown 2 
+	Squirtle HP 52 (52 - 0), abilitate 2 cooldown 1 
+----------------------Step19----------------------
+Snorlax ability1 / Squirtle ability1 / 
+	Snorlax HP 42 (46 - 4), abilitate 1 cooldown 5 abilitate 2 cooldown 1 
+	Squirtle HP 48 (52 - 4), abilitate 1 cooldown 3 
+----------------------Step20----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+	Snorlax HP 42 (42 - 0), abilitate 1 cooldown 4 
+	Squirtle HP 48 (48 - 0), abilitate 1 cooldown 2 
+----------------------Step21----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 40 (42 - 2), abilitate 1 cooldown 3 
+	Squirtle HP 48 (48 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+----------------------Step22----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Snorlax is stunned this round
+	Snorlax HP 40 (40 - 0), abilitate 1 cooldown 2 
+	Squirtle HP 48 (48 - 0), abilitate 2 cooldown 1 
+----------------------Step23----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 40 (40 - 0), abilitate 1 cooldown 1 
+	Squirtle HP 48 (48 - 0), 
+----------------------Step24----------------------
+Snorlax ability2 / Squirtle specialAttack / 
+Snorlax dodge is active this round
+	Snorlax HP 40 (40 - 0), abilitate 2 cooldown 5 
+	Squirtle HP 48 (48 - 0), 
+----------------------Step25----------------------
+Snorlax normalAttack / Squirtle ability1 / 
+	Snorlax HP 36 (40 - 4), abilitate 2 cooldown 4 
+	Squirtle HP 48 (48 - 0), abilitate 1 cooldown 3 
+----------------------Step26----------------------
+Snorlax ability1 / Squirtle specialAttack / 
+	Snorlax HP 36 (36 - 0), abilitate 1 cooldown 5 abilitate 2 cooldown 3 
+	Squirtle HP 44 (48 - 4), abilitate 1 cooldown 2 
+----------------------Step27----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+	Snorlax HP 36 (36 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 2 
+	Squirtle HP 44 (44 - 0), abilitate 1 cooldown 1 
+----------------------Step28----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 36 (36 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 1 
+	Squirtle HP 44 (44 - 0), 
+----------------------Step29----------------------
+Snorlax normalAttack / Squirtle ability1 / 
+	Snorlax HP 32 (36 - 4), abilitate 1 cooldown 2 
+	Squirtle HP 44 (44 - 0), abilitate 1 cooldown 3 
+----------------------Step30----------------------
+Snorlax ability2 / Squirtle ability2 / 
+Snorlax dodge is active this round
+	Snorlax HP 32 (32 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 5 
+	Squirtle HP 44 (44 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 2 
+----------------------Step31----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 32 (32 - 0), abilitate 2 cooldown 4 
+	Squirtle HP 44 (44 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 1 
+----------------------Step32----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 32 (32 - 0), abilitate 2 cooldown 3 
+	Squirtle HP 44 (44 - 0), 
+----------------------Step33----------------------
+Snorlax ability1 / Squirtle specialAttack / 
+	Snorlax HP 32 (32 - 0), abilitate 1 cooldown 5 abilitate 2 cooldown 2 
+	Squirtle HP 40 (44 - 4), 
+----------------------Step34----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+	Snorlax HP 32 (32 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 1 
+	Squirtle HP 40 (40 - 0), 
+----------------------Step35----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 30 (32 - 2), abilitate 1 cooldown 3 
+	Squirtle HP 40 (40 - 0), abilitate 2 cooldown 2 
+----------------------Step36----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Snorlax is stunned this round
+	Snorlax HP 30 (30 - 0), abilitate 1 cooldown 2 
+	Squirtle HP 40 (40 - 0), abilitate 2 cooldown 1 
+----------------------Step37----------------------
+Snorlax ability2 / Squirtle ability1 / 
+Snorlax dodge is active this round
+	Snorlax HP 30 (30 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 5 
+	Squirtle HP 40 (40 - 0), abilitate 1 cooldown 3 
+----------------------Step38----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 30 (30 - 0), abilitate 2 cooldown 4 
+	Squirtle HP 40 (40 - 0), abilitate 1 cooldown 2 
+----------------------Step39----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 30 (30 - 0), abilitate 2 cooldown 3 
+	Squirtle HP 40 (40 - 0), abilitate 1 cooldown 1 
+----------------------Step40----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 28 (30 - 2), abilitate 2 cooldown 2 
+	Squirtle HP 40 (40 - 0), abilitate 2 cooldown 2 
+----------------------Step41----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Snorlax is stunned this round
+	Snorlax HP 28 (28 - 0), abilitate 2 cooldown 1 
+	Squirtle HP 40 (40 - 0), abilitate 2 cooldown 1 
+----------------------Step42----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 28 (28 - 0), 
+	Squirtle HP 40 (40 - 0), 
+----------------------Step43----------------------
+Snorlax ability2 / Squirtle specialAttack / 
+Snorlax dodge is active this round
+	Snorlax HP 28 (28 - 0), abilitate 2 cooldown 5 
+	Squirtle HP 40 (40 - 0), 
+----------------------Step44----------------------
+Snorlax normalAttack / Squirtle ability1 / 
+	Snorlax HP 24 (28 - 4), abilitate 2 cooldown 4 
+	Squirtle HP 40 (40 - 0), abilitate 1 cooldown 3 
+----------------------Step45----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 24 (24 - 0), abilitate 2 cooldown 3 
+	Squirtle HP 40 (40 - 0), abilitate 1 cooldown 2 
+----------------------Step46----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 22 (24 - 2), abilitate 2 cooldown 2 
+	Squirtle HP 40 (40 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+----------------------Step47----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Snorlax is stunned this round
+	Snorlax HP 22 (22 - 0), abilitate 2 cooldown 1 
+	Squirtle HP 40 (40 - 0), abilitate 2 cooldown 1 
+----------------------Step48----------------------
+Snorlax normalAttack / Squirtle ability1 / 
+	Snorlax HP 18 (22 - 4), 
+	Squirtle HP 40 (40 - 0), abilitate 1 cooldown 3 
+----------------------Step49----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 16 (18 - 2), 
+	Squirtle HP 40 (40 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 2 
+----------------------Step50----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Snorlax is stunned this round
+	Snorlax HP 16 (16 - 0), 
+	Squirtle HP 40 (40 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 1 
+----------------------Step51----------------------
+Snorlax ability2 / Squirtle specialAttack / 
+Snorlax dodge is active this round
+	Snorlax HP 16 (16 - 0), abilitate 2 cooldown 5 
+	Squirtle HP 40 (40 - 0), 
+----------------------Step52----------------------
+Snorlax ability1 / Squirtle ability2 / 
+	Snorlax HP 14 (16 - 2), abilitate 1 cooldown 5 abilitate 2 cooldown 4 
+	Squirtle HP 36 (40 - 4), abilitate 2 cooldown 2 
+----------------------Step53----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+Snorlax is stunned this round
+	Snorlax HP 14 (14 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Squirtle HP 36 (36 - 0), abilitate 2 cooldown 1 
+----------------------Step54----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 14 (14 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Squirtle HP 36 (36 - 0), 
+----------------------Step55----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 12 (14 - 2), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+	Squirtle HP 36 (36 - 0), abilitate 2 cooldown 2 
+----------------------Step56----------------------
+Snorlax normalAttack / Squirtle ability1 / 
+Snorlax is stunned this round
+	Snorlax HP 8 (12 - 4), abilitate 1 cooldown 1 
+	Squirtle HP 36 (36 - 0), abilitate 2 cooldown 1 
+----------------------Step57----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 8 (8 - 0), 
+	Squirtle HP 36 (36 - 0), 
+----------------------Step58----------------------
+Snorlax ability2 / Squirtle ability2 / 
+Snorlax dodge is active this round
+	Snorlax HP 8 (8 - 0), abilitate 2 cooldown 5 
+	Squirtle HP 36 (36 - 0), abilitate 2 cooldown 2 
+----------------------Step59----------------------
+Snorlax ability1 / Squirtle ability1 / 
+	Snorlax HP 4 (8 - 4), abilitate 1 cooldown 5 abilitate 2 cooldown 4 
+	Squirtle HP 32 (36 - 4), abilitate 1 cooldown 3 abilitate 2 cooldown 1 
+----------------------Step60----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+	Snorlax HP 4 (4 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Squirtle HP 32 (32 - 0), abilitate 1 cooldown 2 
+----------------------Step61----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 4 (4 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Squirtle HP 32 (32 - 0), abilitate 1 cooldown 1 
+----------------------Step62----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 2 (4 - 2), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+	Squirtle HP 32 (32 - 0), abilitate 2 cooldown 2 
+----------------------Step63----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+Snorlax is stunned this round
+	Snorlax HP 2 (2 - 0), abilitate 1 cooldown 1 
+	Squirtle HP 32 (32 - 0), abilitate 2 cooldown 1 
+----------------------Step64----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 2 (2 - 0), 
+	Squirtle HP 32 (32 - 0), 
+----------------------Step65----------------------
+Snorlax ability1 / Squirtle specialAttack / 
+	Snorlax HP 2 (2 - 0), abilitate 1 cooldown 5 
+	Squirtle HP 28 (32 - 4), 
+----------------------Step66----------------------
+Snorlax ability2 / Squirtle specialAttack / 
+Squirtle is stunned this round
+	Snorlax HP 2 (2 - 0), abilitate 1 cooldown 4 
+	Squirtle HP 28 (28 - 0), 
+----------------------Step67----------------------
+Snorlax ability2 / Squirtle specialAttack / 
+Snorlax dodge is active this round
+	Snorlax HP 2 (2 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 5 
+	Squirtle HP 28 (28 - 0), 
+----------------------Step68----------------------
+Snorlax normalAttack / Squirtle specialAttack / 
+	Snorlax HP 2 (2 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 4 
+	Squirtle HP 28 (28 - 0), 
+----------------------Step69----------------------
+Snorlax normalAttack / Squirtle ability2 / 
+	Snorlax HP 0 (2 - 2), abilitate 1 cooldown 1 abilitate 2 cooldown 3 
+	Squirtle HP 28 (28 - 0), abilitate 2 cooldown 2 
+David Wins
+[][][][][][][][][][][][][] ROUND3 [][][][][][][][][][][][][]
+Charmander has these items[(Vitamine)]
++2 hp; +2 normalAttack; +0 defense; +0 specialDefense
+Vulpix has these items[(Vesta)]
++10 hp; +0 normalAttack; +0 defense; +0 specialDefense
+----------------------Step1----------------------
+Charmander ability1 / Vulpix ability2 / 
+Vulpix dodge is active this round
+	Charmander HP 50 (52 - 2), abilitate 1 cooldown 4 
+	Vulpix HP 46 (46 - 0), abilitate 2 cooldown 7 
+----------------------Step2----------------------
+Charmander normalAttack / Vulpix normalAttack / 
+	Charmander HP 48 (50 - 2), abilitate 1 cooldown 3 
+	Vulpix HP 42 (46 - 4), abilitate 2 cooldown 6 
+----------------------Step3----------------------
+Charmander normalAttack / Vulpix ability1 / 
+	Charmander HP 40 (48 - 8), abilitate 1 cooldown 2 
+	Vulpix HP 38 (42 - 4), abilitate 1 cooldown 6 abilitate 2 cooldown 5 
+----------------------Step4----------------------
+Charmander normalAttack / Vulpix normalAttack / 
+Charmander is stunned this round
+	Charmander HP 38 (40 - 2), abilitate 1 cooldown 1 
+	Vulpix HP 38 (38 - 0), abilitate 1 cooldown 5 abilitate 2 cooldown 4 
+----------------------Step5----------------------
+Charmander normalAttack / Vulpix normalAttack / 
+	Charmander HP 36 (38 - 2), 
+	Vulpix HP 34 (38 - 4), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+----------------------Step6----------------------
+Charmander ability1 / Vulpix normalAttack / 
+	Charmander HP 34 (36 - 2), abilitate 1 cooldown 4 
+	Vulpix HP 30 (34 - 4), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+----------------------Step7----------------------
+Charmander ability2 / Vulpix normalAttack / 
+Vulpix is stunned this round
+	Charmander HP 34 (34 - 0), abilitate 1 cooldown 3 
+	Vulpix HP 23 (30 - 7), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+----------------------Step8----------------------
+Charmander normalAttack / Vulpix normalAttack / 
+	Charmander HP 32 (34 - 2), abilitate 1 cooldown 2 
+	Vulpix HP 19 (23 - 4), abilitate 1 cooldown 1 
+----------------------Step9----------------------
+Charmander ability2 / Vulpix ability2 / 
+Vulpix dodge is active this round
+	Charmander HP 30 (32 - 2), abilitate 1 cooldown 1 abilitate 2 cooldown 6 
+	Vulpix HP 19 (19 - 0), abilitate 2 cooldown 7 
+----------------------Step10----------------------
+Charmander normalAttack / Vulpix ability1 / 
+	Charmander HP 22 (30 - 8), abilitate 2 cooldown 5 
+	Vulpix HP 15 (19 - 4), abilitate 1 cooldown 6 abilitate 2 cooldown 6 
+----------------------Step11----------------------
+Charmander normalAttack / Vulpix normalAttack / 
+Charmander is stunned this round
+	Charmander HP 20 (22 - 2), abilitate 2 cooldown 4 
+	Vulpix HP 15 (15 - 0), abilitate 1 cooldown 5 abilitate 2 cooldown 5 
+----------------------Step12----------------------
+Charmander ability1 / Vulpix normalAttack / 
+	Charmander HP 18 (20 - 2), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Vulpix HP 11 (15 - 4), abilitate 1 cooldown 4 abilitate 2 cooldown 4 
+----------------------Step13----------------------
+Charmander normalAttack / Vulpix normalAttack / 
+Vulpix is stunned this round
+	Charmander HP 18 (18 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Vulpix HP 7 (11 - 4), abilitate 1 cooldown 3 abilitate 2 cooldown 3 
+----------------------Step14----------------------
+Charmander normalAttack / Vulpix normalAttack / 
+	Charmander HP 16 (18 - 2), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+	Vulpix HP 3 (7 - 4), abilitate 1 cooldown 2 abilitate 2 cooldown 2 
+----------------------Step15----------------------
+Charmander normalAttack / Vulpix normalAttack / 
+	Charmander HP 14 (16 - 2), abilitate 1 cooldown 1 
+	Vulpix HP -1 (3 - 4), abilitate 1 cooldown 1 abilitate 2 cooldown 1 
+Andrei Wins
+[][][][][][][][][][][][][] FINAL ROUND [][][][][][][][][][][][][]
+Charmander has these items[(Scut),(Bagheta_Magica),(Vesta)]
++10 hp; +0 normalAttack; +2 defense; +2 specialDefense
+Squirtle has these items[(Vitamine),(Brad_De_Craciun)]
++2 hp; +2 specialAttack; +1 defense; +0 specialDefense
+----------------------Step1----------------------
+Charmander ability2 / Squirtle ability1 / 
+	Charmander HP 56 (60 - 4), abilitate 2 cooldown 6 
+	Squirtle HP 55 (62 - 7), abilitate 1 cooldown 3 
+----------------------Step2----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+	Charmander HP 55 (56 - 1), abilitate 2 cooldown 5 
+	Squirtle HP 55 (55 - 0), abilitate 1 cooldown 2 
+----------------------Step3----------------------
+Charmander normalAttack / Squirtle ability2 / 
+	Charmander HP 53 (55 - 2), abilitate 2 cooldown 4 
+	Squirtle HP 55 (55 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+----------------------Step4----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+Charmander is stunned this round
+	Charmander HP 52 (53 - 1), abilitate 2 cooldown 3 
+	Squirtle HP 55 (55 - 0), abilitate 2 cooldown 1 
+----------------------Step5----------------------
+Charmander normalAttack / Squirtle ability1 / 
+	Charmander HP 48 (52 - 4), abilitate 2 cooldown 2 
+	Squirtle HP 55 (55 - 0), abilitate 1 cooldown 3 
+----------------------Step6----------------------
+Charmander normalAttack / Squirtle ability2 / 
+	Charmander HP 46 (48 - 2), abilitate 2 cooldown 1 
+	Squirtle HP 55 (55 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 2 
+----------------------Step7----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+Charmander is stunned this round
+	Charmander HP 45 (46 - 1), 
+	Squirtle HP 55 (55 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 1 
+----------------------Step8----------------------
+Charmander ability2 / Squirtle specialAttack / 
+	Charmander HP 44 (45 - 1), abilitate 2 cooldown 6 
+	Squirtle HP 48 (55 - 7), 
+----------------------Step9----------------------
+Charmander ability1 / Squirtle ability2 / 
+	Charmander HP 42 (44 - 2), abilitate 1 cooldown 4 abilitate 2 cooldown 5 
+	Squirtle HP 44 (48 - 4), abilitate 2 cooldown 2 
+----------------------Step10----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+Charmander is stunned this round
+	Charmander HP 42 (42 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 4 
+	Squirtle HP 44 (44 - 0), abilitate 2 cooldown 1 
+----------------------Step11----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+	Charmander HP 41 (42 - 1), abilitate 1 cooldown 2 abilitate 2 cooldown 3 
+	Squirtle HP 44 (44 - 0), 
+----------------------Step12----------------------
+Charmander normalAttack / Squirtle ability2 / 
+	Charmander HP 39 (41 - 2), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+	Squirtle HP 44 (44 - 0), abilitate 2 cooldown 2 
+----------------------Step13----------------------
+Charmander normalAttack / Squirtle ability1 / 
+Charmander is stunned this round
+	Charmander HP 35 (39 - 4), abilitate 2 cooldown 1 
+	Squirtle HP 44 (44 - 0), abilitate 2 cooldown 1 
+----------------------Step14----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+	Charmander HP 34 (35 - 1), 
+	Squirtle HP 44 (44 - 0), 
+----------------------Step15----------------------
+Charmander ability2 / Squirtle ability2 / 
+	Charmander HP 32 (34 - 2), abilitate 2 cooldown 6 
+	Squirtle HP 37 (44 - 7), abilitate 2 cooldown 2 
+----------------------Step16----------------------
+Charmander normalAttack / Squirtle ability1 / 
+Charmander is stunned this round
+	Charmander HP 28 (32 - 4), abilitate 2 cooldown 5 
+	Squirtle HP 37 (37 - 0), abilitate 2 cooldown 1 
+----------------------Step17----------------------
+Charmander ability1 / Squirtle specialAttack / 
+	Charmander HP 27 (28 - 1), abilitate 1 cooldown 4 abilitate 2 cooldown 4 
+	Squirtle HP 33 (37 - 4), 
+----------------------Step18----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+	Charmander HP 27 (27 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 3 
+	Squirtle HP 33 (33 - 0), 
+----------------------Step19----------------------
+Charmander normalAttack / Squirtle ability1 / 
+	Charmander HP 23 (27 - 4), abilitate 1 cooldown 2 abilitate 2 cooldown 2 
+	Squirtle HP 33 (33 - 0), abilitate 1 cooldown 3 
+----------------------Step20----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+	Charmander HP 22 (23 - 1), abilitate 1 cooldown 1 abilitate 2 cooldown 1 
+	Squirtle HP 33 (33 - 0), abilitate 1 cooldown 2 
+----------------------Step21----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+	Charmander HP 21 (22 - 1), 
+	Squirtle HP 33 (33 - 0), abilitate 1 cooldown 1 
+----------------------Step22----------------------
+Charmander ability1 / Squirtle ability2 / 
+	Charmander HP 19 (21 - 2), abilitate 1 cooldown 4 
+	Squirtle HP 29 (33 - 4), abilitate 2 cooldown 2 
+----------------------Step23----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+Charmander is stunned this round
+	Charmander HP 19 (19 - 0), abilitate 1 cooldown 3 
+	Squirtle HP 29 (29 - 0), abilitate 2 cooldown 1 
+----------------------Step24----------------------
+Charmander ability2 / Squirtle specialAttack / 
+	Charmander HP 18 (19 - 1), abilitate 1 cooldown 2 abilitate 2 cooldown 6 
+	Squirtle HP 22 (29 - 7), 
+----------------------Step25----------------------
+Charmander normalAttack / Squirtle ability1 / 
+	Charmander HP 14 (18 - 4), abilitate 1 cooldown 1 abilitate 2 cooldown 5 
+	Squirtle HP 22 (22 - 0), abilitate 1 cooldown 3 
+----------------------Step26----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+	Charmander HP 13 (14 - 1), abilitate 2 cooldown 4 
+	Squirtle HP 22 (22 - 0), abilitate 1 cooldown 2 
+----------------------Step27----------------------
+Charmander ability1 / Squirtle ability2 / 
+	Charmander HP 11 (13 - 2), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Squirtle HP 18 (22 - 4), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+----------------------Step28----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+Charmander is stunned this round
+	Charmander HP 11 (11 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Squirtle HP 18 (18 - 0), abilitate 2 cooldown 1 
+----------------------Step29----------------------
+Charmander normalAttack / Squirtle ability1 / 
+	Charmander HP 7 (11 - 4), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+	Squirtle HP 18 (18 - 0), abilitate 1 cooldown 3 
+----------------------Step30----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+	Charmander HP 6 (7 - 1), abilitate 1 cooldown 1 
+	Squirtle HP 18 (18 - 0), abilitate 1 cooldown 2 
+----------------------Step31----------------------
+Charmander normalAttack / Squirtle ability2 / 
+	Charmander HP 4 (6 - 2), 
+	Squirtle HP 18 (18 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+----------------------Step32----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+Charmander is stunned this round
+	Charmander HP 3 (4 - 1), 
+	Squirtle HP 18 (18 - 0), abilitate 2 cooldown 1 
+----------------------Step33----------------------
+Charmander ability2 / Squirtle specialAttack / 
+	Charmander HP 2 (3 - 1), abilitate 2 cooldown 6 
+	Squirtle HP 11 (18 - 7), 
+----------------------Step34----------------------
+Charmander ability1 / Squirtle specialAttack / 
+	Charmander HP 1 (2 - 1), abilitate 1 cooldown 4 abilitate 2 cooldown 5 
+	Squirtle HP 7 (11 - 4), 
+----------------------Step35----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+Squirtle is stunned this round
+	Charmander HP 1 (1 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 4 
+	Squirtle HP 7 (7 - 0), 
+----------------------Step36----------------------
+Charmander normalAttack / Squirtle specialAttack / 
+	Charmander HP 0 (1 - 1), abilitate 1 cooldown 2 abilitate 2 cooldown 3 
+	Squirtle HP 7 (7 - 0), 
+David Wins
+The battle was won by David
+

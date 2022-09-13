@@ -1,0 +1,358 @@
+----------------------Step1----------------------
+Psyduck normalAttack / Neutrel2 normalAttack / 
+	Psyduck HP 42 (43 - 1), 
+	Neutrel2 HP 18 (20 - 2), 
+----------------------Step2----------------------
+Psyduck ability2 / Neutrel2 ability2 / 
+	Psyduck HP 42 (42 - 0), abilitate 2 cooldown 5 
+	Neutrel2 HP 16 (18 - 2), 
+----------------------Step3----------------------
+Psyduck normalAttack / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Psyduck HP 42 (42 - 0), abilitate 2 cooldown 4 
+	Neutrel2 HP 14 (16 - 2), 
+----------------------Step4----------------------
+Psyduck ability1 / Neutrel2 ability2 / 
+	Psyduck HP 42 (42 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Neutrel2 HP 12 (14 - 2), 
+----------------------Step5----------------------
+Psyduck normalAttack / Neutrel2 normalAttack / 
+	Psyduck HP 41 (42 - 1), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Neutrel2 HP 10 (12 - 2), 
+----------------------Step6----------------------
+Psyduck normalAttack / Neutrel2 ability2 / 
+	Psyduck HP 41 (41 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+	Neutrel2 HP 8 (10 - 2), 
+----------------------Step7----------------------
+Psyduck normalAttack / Neutrel2 ability1 / 
+	Psyduck HP 41 (41 - 0), abilitate 1 cooldown 1 
+	Neutrel2 HP 6 (8 - 2), 
+----------------------Step8----------------------
+Psyduck ability2 / Neutrel2 ability1 / 
+	Psyduck HP 41 (41 - 0), abilitate 2 cooldown 5 
+	Neutrel2 HP 4 (6 - 2), 
+----------------------Step9----------------------
+Psyduck ability1 / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Psyduck HP 41 (41 - 0), abilitate 2 cooldown 4 
+	Neutrel2 HP 2 (4 - 2), 
+----------------------Step10----------------------
+Psyduck normalAttack / Neutrel2 normalAttack / 
+	Psyduck HP 40 (41 - 1), abilitate 2 cooldown 3 
+	Neutrel2 HP 0 (2 - 2), 
+Player1 Wins
+----------------------Step1----------------------
+Eevee specialAttack / Neutrel2 normalAttack / 
+	Eevee HP 38 (39 - 1), 
+	Neutrel2 HP 17 (20 - 3), 
+----------------------Step2----------------------
+Eevee ability2 / Neutrel2 ability1 / 
+	Eevee HP 38 (38 - 0), abilitate 2 cooldown 3 
+	Neutrel2 HP 14 (17 - 3), 
+----------------------Step3----------------------
+Eevee ability1 / Neutrel2 normalAttack / 
+Neutrel2 is stunned this round
+	Eevee HP 38 (38 - 0), abilitate 2 cooldown 2 
+	Neutrel2 HP 9 (14 - 5), 
+----------------------Step4----------------------
+Eevee specialAttack / Neutrel2 ability1 / 
+	Eevee HP 38 (38 - 0), abilitate 2 cooldown 1 
+	Neutrel2 HP 6 (9 - 3), 
+----------------------Step5----------------------
+Eevee specialAttack / Neutrel2 normalAttack / 
+	Eevee HP 37 (38 - 1), 
+	Neutrel2 HP 3 (6 - 3), 
+----------------------Step6----------------------
+Eevee ability1 / Neutrel2 normalAttack / 
+	Eevee HP 36 (37 - 1), abilitate 1 cooldown 3 
+	Neutrel2 HP -2 (3 - 5), 
+Player2 Wins
+[][][][][][][][][][][][][] ROUND1 [][][][][][][][][][][][][]
+Psyduck has these items[(Vesta),(Pelerina),(Scut)]
++10 hp; +0 normalAttack; +2 defense; +5 specialDefense
+Eevee has these items[(Bagheta_Magica)]
++0 hp; +3 specialAttack; +0 defense; +0 specialDefense
+----------------------Step1----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+	Psyduck HP 53 (53 - 0), 
+	Eevee HP 39 (39 - 0), 
+----------------------Step2----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+	Psyduck HP 53 (53 - 0), 
+	Eevee HP 39 (39 - 0), 
+----------------------Step3----------------------
+Psyduck ability1 / Eevee ability2 / 
+	Psyduck HP 50 (53 - 3), abilitate 1 cooldown 4 
+	Eevee HP 37 (39 - 2), abilitate 2 cooldown 3 
+----------------------Step4----------------------
+Psyduck normalAttack / Eevee ability1 / 
+Psyduck is stunned this round
+	Psyduck HP 45 (50 - 5), abilitate 1 cooldown 3 
+	Eevee HP 37 (37 - 0), abilitate 2 cooldown 2 
+----------------------Step5----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+	Psyduck HP 45 (45 - 0), abilitate 1 cooldown 2 
+	Eevee HP 37 (37 - 0), abilitate 2 cooldown 1 
+----------------------Step6----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+	Psyduck HP 45 (45 - 0), abilitate 1 cooldown 1 
+	Eevee HP 37 (37 - 0), 
+----------------------Step7----------------------
+Psyduck ability2 / Eevee ability2 / 
+	Psyduck HP 42 (45 - 3), abilitate 2 cooldown 5 
+	Eevee HP 35 (37 - 2), abilitate 2 cooldown 3 
+----------------------Step8----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+Eevee is stunned this round
+Psyduck is stunned this round
+	Psyduck HP 42 (42 - 0), abilitate 2 cooldown 4 
+	Eevee HP 35 (35 - 0), abilitate 2 cooldown 2 
+----------------------Step9----------------------
+Psyduck ability1 / Eevee specialAttack / 
+	Psyduck HP 42 (42 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Eevee HP 33 (35 - 2), abilitate 2 cooldown 1 
+----------------------Step10----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+	Psyduck HP 42 (42 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Eevee HP 33 (33 - 0), 
+----------------------Step11----------------------
+Psyduck normalAttack / Eevee ability2 / 
+	Psyduck HP 39 (42 - 3), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+	Eevee HP 33 (33 - 0), abilitate 2 cooldown 3 
+----------------------Step12----------------------
+Psyduck normalAttack / Eevee ability1 / 
+Psyduck is stunned this round
+	Psyduck HP 34 (39 - 5), abilitate 1 cooldown 1 
+	Eevee HP 33 (33 - 0), abilitate 2 cooldown 2 
+----------------------Step13----------------------
+Psyduck ability2 / Eevee ability1 / 
+	Psyduck HP 29 (34 - 5), abilitate 2 cooldown 5 
+	Eevee HP 31 (33 - 2), abilitate 1 cooldown 3 abilitate 2 cooldown 1 
+----------------------Step14----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+Eevee is stunned this round
+	Psyduck HP 29 (29 - 0), abilitate 2 cooldown 4 
+	Eevee HP 31 (31 - 0), abilitate 1 cooldown 2 
+----------------------Step15----------------------
+Psyduck ability1 / Eevee specialAttack / 
+	Psyduck HP 29 (29 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+	Eevee HP 29 (31 - 2), abilitate 1 cooldown 1 
+----------------------Step16----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+	Psyduck HP 29 (29 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+	Eevee HP 29 (29 - 0), 
+----------------------Step17----------------------
+Psyduck normalAttack / Eevee ability2 / 
+	Psyduck HP 26 (29 - 3), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+	Eevee HP 29 (29 - 0), abilitate 2 cooldown 3 
+----------------------Step18----------------------
+Psyduck normalAttack / Eevee ability1 / 
+Psyduck is stunned this round
+	Psyduck HP 21 (26 - 5), abilitate 1 cooldown 1 
+	Eevee HP 29 (29 - 0), abilitate 2 cooldown 2 
+----------------------Step19----------------------
+Psyduck ability2 / Eevee specialAttack / 
+	Psyduck HP 21 (21 - 0), abilitate 2 cooldown 5 
+	Eevee HP 27 (29 - 2), abilitate 2 cooldown 1 
+----------------------Step20----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+Eevee is stunned this round
+	Psyduck HP 21 (21 - 0), abilitate 2 cooldown 4 
+	Eevee HP 27 (27 - 0), 
+----------------------Step21----------------------
+Psyduck normalAttack / Eevee ability2 / 
+	Psyduck HP 18 (21 - 3), abilitate 2 cooldown 3 
+	Eevee HP 27 (27 - 0), abilitate 2 cooldown 3 
+----------------------Step22----------------------
+Psyduck normalAttack / Eevee ability1 / 
+Psyduck is stunned this round
+	Psyduck HP 13 (18 - 5), abilitate 2 cooldown 2 
+	Eevee HP 27 (27 - 0), abilitate 2 cooldown 2 
+----------------------Step23----------------------
+Psyduck ability1 / Eevee ability1 / 
+	Psyduck HP 8 (13 - 5), abilitate 1 cooldown 4 abilitate 2 cooldown 1 
+	Eevee HP 25 (27 - 2), abilitate 1 cooldown 3 abilitate 2 cooldown 1 
+----------------------Step24----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+	Psyduck HP 8 (8 - 0), abilitate 1 cooldown 3 
+	Eevee HP 25 (25 - 0), abilitate 1 cooldown 2 
+----------------------Step25----------------------
+Psyduck ability2 / Eevee specialAttack / 
+	Psyduck HP 8 (8 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 5 
+	Eevee HP 23 (25 - 2), abilitate 1 cooldown 1 
+----------------------Step26----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+Eevee is stunned this round
+	Psyduck HP 8 (8 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 4 
+	Eevee HP 23 (23 - 0), 
+----------------------Step27----------------------
+Psyduck normalAttack / Eevee specialAttack / 
+	Psyduck HP 8 (8 - 0), abilitate 2 cooldown 3 
+	Eevee HP 23 (23 - 0), 
+----------------------Step28----------------------
+Psyduck normalAttack / Eevee ability2 / 
+	Psyduck HP 5 (8 - 3), abilitate 2 cooldown 2 
+	Eevee HP 23 (23 - 0), abilitate 2 cooldown 3 
+----------------------Step29----------------------
+Psyduck normalAttack / Eevee ability1 / 
+Psyduck is stunned this round
+	Psyduck HP 0 (5 - 5), abilitate 2 cooldown 1 
+	Eevee HP 23 (23 - 0), abilitate 2 cooldown 2 
+Player2 Wins
+[][][][][][][][][][][][][] ROUND2 [][][][][][][][][][][][][]
+Bulbasaur has these items[(Sabiuta)]
++0 hp; +0 specialAttack; +0 defense; +0 specialDefense
+Bulbasaur has these items[(Scut),(Vesta),(Pelerina)]
++10 hp; +0 specialAttack; +2 defense; +5 specialDefense
+----------------------Step1----------------------
+Bulbasaur specialAttack / Bulbasaur specialAttack / 
+	Bulbasaur HP 38 (42 - 4), 
+	Bulbasaur HP 52 (52 - 0), 
+----------------------Step2----------------------
+Bulbasaur specialAttack / Bulbasaur ability2 / 
+	Bulbasaur HP 33 (38 - 5), 
+	Bulbasaur HP 52 (52 - 0), abilitate 2 cooldown 3 
+----------------------Step3----------------------
+Bulbasaur specialAttack / Bulbasaur specialAttack / 
+	Bulbasaur HP 29 (33 - 4), 
+	Bulbasaur HP 52 (52 - 0), abilitate 2 cooldown 2 
+----------------------Step4----------------------
+Bulbasaur specialAttack / Bulbasaur specialAttack / 
+	Bulbasaur HP 25 (29 - 4), 
+	Bulbasaur HP 52 (52 - 0), abilitate 2 cooldown 1 
+----------------------Step5----------------------
+Bulbasaur specialAttack / Bulbasaur specialAttack / 
+	Bulbasaur HP 21 (25 - 4), 
+	Bulbasaur HP 52 (52 - 0), 
+----------------------Step6----------------------
+Bulbasaur ability1 / Bulbasaur ability1 / 
+	Bulbasaur HP 15 (21 - 6), abilitate 1 cooldown 4 
+	Bulbasaur HP 46 (52 - 6), abilitate 1 cooldown 4 
+----------------------Step7----------------------
+Bulbasaur ability2 / Bulbasaur specialAttack / 
+	Bulbasaur HP 11 (15 - 4), abilitate 1 cooldown 3 abilitate 2 cooldown 3 
+	Bulbasaur HP 41 (46 - 5), abilitate 1 cooldown 3 
+----------------------Step8----------------------
+Bulbasaur specialAttack / Bulbasaur specialAttack / 
+	Bulbasaur HP 7 (11 - 4), abilitate 1 cooldown 2 abilitate 2 cooldown 2 
+	Bulbasaur HP 41 (41 - 0), abilitate 1 cooldown 2 
+----------------------Step9----------------------
+Bulbasaur specialAttack / Bulbasaur ability2 / 
+	Bulbasaur HP 2 (7 - 5), abilitate 1 cooldown 1 abilitate 2 cooldown 1 
+	Bulbasaur HP 41 (41 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 3 
+----------------------Step10----------------------
+Bulbasaur specialAttack / Bulbasaur specialAttack / 
+	Bulbasaur HP -2 (2 - 4), 
+	Bulbasaur HP 41 (41 - 0), abilitate 2 cooldown 2 
+Player2 Wins
+[][][][][][][][][][][][][] ROUND3 [][][][][][][][][][][][][]
+Eevee has these items[]
++0 hp; +0 specialAttack; +0 defense; +0 specialDefense
+Psyduck has these items[(Sabiuta),(Vitamine),(Pelerina)]
++2 hp; +5 normalAttack; +0 defense; +3 specialDefense
+----------------------Step1----------------------
+Eevee ability2 / Psyduck ability2 / 
+	Eevee HP 37 (39 - 2), abilitate 2 cooldown 3 
+	Psyduck HP 42 (45 - 3), abilitate 2 cooldown 5 
+----------------------Step2----------------------
+Eevee specialAttack / Psyduck normalAttack / 
+Psyduck is stunned this round
+Eevee is stunned this round
+	Eevee HP 37 (37 - 0), abilitate 2 cooldown 2 
+	Psyduck HP 42 (42 - 0), abilitate 2 cooldown 4 
+----------------------Step3----------------------
+Eevee specialAttack / Psyduck normalAttack / 
+	Eevee HP 32 (37 - 5), abilitate 2 cooldown 1 
+	Psyduck HP 42 (42 - 0), abilitate 2 cooldown 3 
+----------------------Step4----------------------
+Eevee specialAttack / Psyduck ability1 / 
+	Eevee HP 30 (32 - 2), 
+	Psyduck HP 42 (42 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 2 
+----------------------Step5----------------------
+Eevee ability1 / Psyduck normalAttack / 
+	Eevee HP 25 (30 - 5), abilitate 1 cooldown 3 
+	Psyduck HP 37 (42 - 5), abilitate 1 cooldown 3 abilitate 2 cooldown 1 
+----------------------Step6----------------------
+Eevee ability2 / Psyduck normalAttack / 
+	Eevee HP 20 (25 - 5), abilitate 1 cooldown 2 abilitate 2 cooldown 3 
+	Psyduck HP 34 (37 - 3), abilitate 1 cooldown 2 
+----------------------Step7----------------------
+Eevee specialAttack / Psyduck normalAttack / 
+Psyduck is stunned this round
+	Eevee HP 20 (20 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+	Psyduck HP 34 (34 - 0), abilitate 1 cooldown 1 
+----------------------Step8----------------------
+Eevee specialAttack / Psyduck normalAttack / 
+	Eevee HP 15 (20 - 5), abilitate 2 cooldown 1 
+	Psyduck HP 34 (34 - 0), 
+----------------------Step9----------------------
+Eevee specialAttack / Psyduck normalAttack / 
+	Eevee HP 10 (15 - 5), 
+	Psyduck HP 34 (34 - 0), 
+----------------------Step10----------------------
+Eevee specialAttack / Psyduck ability2 / 
+	Eevee HP 8 (10 - 2), 
+	Psyduck HP 34 (34 - 0), abilitate 2 cooldown 5 
+----------------------Step11----------------------
+Eevee specialAttack / Psyduck normalAttack / 
+Eevee is stunned this round
+	Eevee HP 3 (8 - 5), 
+	Psyduck HP 34 (34 - 0), abilitate 2 cooldown 4 
+----------------------Step12----------------------
+Eevee ability1 / Psyduck normalAttack / 
+	Eevee HP -2 (3 - 5), abilitate 1 cooldown 3 
+	Psyduck HP 29 (34 - 5), abilitate 2 cooldown 3 
+Player2 Wins
+[][][][][][][][][][][][][] FINAL ROUND [][][][][][][][][][][][][]
+Psyduck has these items[(Vitamine),(Brad_De_Craciun)]
++2 hp; +5 normalAttack; +1 defense; +0 specialDefense
+Bulbasaur has these items[(Vitamine),(Brad_De_Craciun),(Sabiuta)]
++2 hp; +2 specialAttack; +1 defense; +0 specialDefense
+----------------------Step1----------------------
+Psyduck normalAttack / Bulbasaur specialAttack / 
+	Psyduck HP 41 (45 - 4), 
+	Bulbasaur HP 40 (44 - 4), 
+----------------------Step2----------------------
+Psyduck normalAttack / Bulbasaur specialAttack / 
+	Psyduck HP 37 (41 - 4), 
+	Bulbasaur HP 36 (40 - 4), 
+----------------------Step3----------------------
+Psyduck ability1 / Bulbasaur ability1 / 
+	Psyduck HP 31 (37 - 6), abilitate 1 cooldown 4 
+	Bulbasaur HP 34 (36 - 2), abilitate 1 cooldown 4 
+----------------------Step4----------------------
+Psyduck normalAttack / Bulbasaur ability2 / 
+	Psyduck HP 26 (31 - 5), abilitate 1 cooldown 3 
+	Bulbasaur HP 30 (34 - 4), abilitate 1 cooldown 3 abilitate 2 cooldown 3 
+----------------------Step5----------------------
+Psyduck ability2 / Bulbasaur specialAttack / 
+	Psyduck HP 22 (26 - 4), abilitate 1 cooldown 2 abilitate 2 cooldown 5 
+	Bulbasaur HP 28 (30 - 2), abilitate 1 cooldown 2 abilitate 2 cooldown 2 
+----------------------Step6----------------------
+Psyduck normalAttack / Bulbasaur specialAttack / 
+Bulbasaur is stunned this round
+	Psyduck HP 22 (22 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 4 
+	Bulbasaur HP 24 (28 - 4), abilitate 1 cooldown 1 abilitate 2 cooldown 1 
+----------------------Step7----------------------
+Psyduck normalAttack / Bulbasaur specialAttack / 
+	Psyduck HP 18 (22 - 4), abilitate 2 cooldown 3 
+	Bulbasaur HP 20 (24 - 4), 
+----------------------Step8----------------------
+Psyduck normalAttack / Bulbasaur specialAttack / 
+	Psyduck HP 14 (18 - 4), abilitate 2 cooldown 2 
+	Bulbasaur HP 16 (20 - 4), 
+----------------------Step9----------------------
+Psyduck normalAttack / Bulbasaur ability1 / 
+	Psyduck HP 8 (14 - 6), abilitate 2 cooldown 1 
+	Bulbasaur HP 12 (16 - 4), abilitate 1 cooldown 4 
+----------------------Step10----------------------
+Psyduck ability1 / Bulbasaur specialAttack / 
+	Psyduck HP 4 (8 - 4), abilitate 1 cooldown 4 
+	Bulbasaur HP 10 (12 - 2), abilitate 1 cooldown 3 
+----------------------Step11----------------------
+Psyduck normalAttack / Bulbasaur specialAttack / 
+	Psyduck HP 0 (4 - 4), abilitate 1 cooldown 3 
+	Bulbasaur HP 6 (10 - 4), abilitate 1 cooldown 2 
+Player2 Wins
+The battle was won by Player2
+

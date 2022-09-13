@@ -1,0 +1,363 @@
+[][][][][][][][][][][][][] ROUND1 [][][][][][][][][][][][][]
+Squirtle has these items[]
++0 hp; +0 specialAttack; +0 defense; +0 specialDefense
+Charmander has these items[(Sabiuta)]
++0 hp; +3 normalAttack; +0 defense; +0 specialDefense
+----------------------Step1----------------------
+Squirtle ability2 / Charmander ability2 / 
+	Squirtle HP 53 (60 - 7), abilitate 2 cooldown 2 
+	Charmander HP 48 (50 - 2), abilitate 2 cooldown 6 
+----------------------Step2----------------------
+Squirtle ability1 / Charmander normalAttack / 
+Charmander is stunned this round
+	Squirtle HP 53 (53 - 0), abilitate 2 cooldown 1 
+	Charmander HP 44 (48 - 4), abilitate 2 cooldown 5 
+----------------------Step3----------------------
+Squirtle specialAttack / Charmander normalAttack / 
+	Squirtle HP 51 (53 - 2), 
+	Charmander HP 43 (44 - 1), abilitate 2 cooldown 4 
+----------------------Step4----------------------
+Squirtle specialAttack / Charmander normalAttack / 
+	Squirtle HP 49 (51 - 2), 
+	Charmander HP 42 (43 - 1), abilitate 2 cooldown 3 
+----------------------Step5----------------------
+Squirtle ability2 / Charmander normalAttack / 
+	Squirtle HP 47 (49 - 2), abilitate 2 cooldown 2 
+	Charmander HP 40 (42 - 2), abilitate 2 cooldown 2 
+----------------------Step6----------------------
+Squirtle specialAttack / Charmander normalAttack / 
+Charmander is stunned this round
+	Squirtle HP 47 (47 - 0), abilitate 2 cooldown 1 
+	Charmander HP 39 (40 - 1), abilitate 2 cooldown 1 
+----------------------Step7----------------------
+Squirtle ability1 / Charmander normalAttack / 
+	Squirtle HP 45 (47 - 2), abilitate 1 cooldown 3 
+	Charmander HP 35 (39 - 4), 
+----------------------Step8----------------------
+Squirtle specialAttack / Charmander ability1 / 
+	Squirtle HP 41 (45 - 4), abilitate 1 cooldown 2 
+	Charmander HP 34 (35 - 1), abilitate 1 cooldown 4 
+----------------------Step9----------------------
+Squirtle specialAttack / Charmander normalAttack / 
+Squirtle is stunned this round
+	Squirtle HP 39 (41 - 2), abilitate 1 cooldown 1 
+	Charmander HP 34 (34 - 0), abilitate 1 cooldown 3 
+----------------------Step10----------------------
+Squirtle ability2 / Charmander normalAttack / 
+	Squirtle HP 37 (39 - 2), abilitate 2 cooldown 2 
+	Charmander HP 32 (34 - 2), abilitate 1 cooldown 2 
+----------------------Step11----------------------
+Squirtle ability1 / Charmander normalAttack / 
+Charmander is stunned this round
+	Squirtle HP 37 (37 - 0), abilitate 2 cooldown 1 
+	Charmander HP 28 (32 - 4), abilitate 1 cooldown 1 
+----------------------Step12----------------------
+Squirtle ability1 / Charmander ability2 / 
+	Squirtle HP 30 (37 - 7), abilitate 1 cooldown 3 
+	Charmander HP 24 (28 - 4), abilitate 2 cooldown 6 
+----------------------Step13----------------------
+Squirtle specialAttack / Charmander ability1 / 
+	Squirtle HP 26 (30 - 4), abilitate 1 cooldown 2 
+	Charmander HP 23 (24 - 1), abilitate 1 cooldown 4 abilitate 2 cooldown 5 
+----------------------Step14----------------------
+Squirtle specialAttack / Charmander normalAttack / 
+Squirtle is stunned this round
+	Squirtle HP 24 (26 - 2), abilitate 1 cooldown 1 
+	Charmander HP 23 (23 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 4 
+----------------------Step15----------------------
+Squirtle ability2 / Charmander normalAttack / 
+	Squirtle HP 22 (24 - 2), abilitate 2 cooldown 2 
+	Charmander HP 21 (23 - 2), abilitate 1 cooldown 2 abilitate 2 cooldown 3 
+----------------------Step16----------------------
+Squirtle specialAttack / Charmander normalAttack / 
+Charmander is stunned this round
+	Squirtle HP 22 (22 - 0), abilitate 2 cooldown 1 
+	Charmander HP 20 (21 - 1), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+----------------------Step17----------------------
+Squirtle ability1 / Charmander normalAttack / 
+	Squirtle HP 20 (22 - 2), abilitate 1 cooldown 3 
+	Charmander HP 16 (20 - 4), abilitate 2 cooldown 1 
+----------------------Step18----------------------
+Squirtle ability2 / Charmander normalAttack / 
+	Squirtle HP 18 (20 - 2), abilitate 1 cooldown 2 abilitate 2 cooldown 2 
+	Charmander HP 14 (16 - 2), 
+----------------------Step19----------------------
+Squirtle specialAttack / Charmander normalAttack / 
+Charmander is stunned this round
+	Squirtle HP 18 (18 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 1 
+	Charmander HP 13 (14 - 1), 
+----------------------Step20----------------------
+Squirtle specialAttack / Charmander normalAttack / 
+	Squirtle HP 16 (18 - 2), 
+	Charmander HP 12 (13 - 1), 
+----------------------Step21----------------------
+Squirtle ability2 / Charmander normalAttack / 
+	Squirtle HP 14 (16 - 2), abilitate 2 cooldown 2 
+	Charmander HP 10 (12 - 2), 
+----------------------Step22----------------------
+Squirtle specialAttack / Charmander normalAttack / 
+Charmander is stunned this round
+	Squirtle HP 14 (14 - 0), abilitate 2 cooldown 1 
+	Charmander HP 9 (10 - 1), 
+----------------------Step23----------------------
+Squirtle ability1 / Charmander normalAttack / 
+	Squirtle HP 12 (14 - 2), abilitate 1 cooldown 3 
+	Charmander HP 5 (9 - 4), 
+----------------------Step24----------------------
+Squirtle specialAttack / Charmander ability2 / 
+	Squirtle HP 5 (12 - 7), abilitate 1 cooldown 2 
+	Charmander HP 4 (5 - 1), abilitate 2 cooldown 6 
+----------------------Step25----------------------
+Squirtle specialAttack / Charmander ability1 / 
+	Squirtle HP 1 (5 - 4), abilitate 1 cooldown 1 
+	Charmander HP 3 (4 - 1), abilitate 1 cooldown 4 abilitate 2 cooldown 5 
+----------------------Step26----------------------
+Squirtle specialAttack / Charmander normalAttack / 
+Squirtle is stunned this round
+	Squirtle HP -1 (1 - 2), 
+	Charmander HP 3 (3 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 4 
+Boombl4 Wins
+[][][][][][][][][][][][][] ROUND2 [][][][][][][][][][][][][]
+Eevee has these items[(Sabiuta),(Vitamine),(Pelerina)]
++2 hp; +2 specialAttack; +0 defense; +3 specialDefense
+Pikachu has these items[(Scut)]
++0 hp; +0 specialAttack; +2 defense; +2 specialDefense
+----------------------Step1----------------------
+Eevee ability2 / Pikachu specialAttack / 
+	Eevee HP 41 (41 - 0), abilitate 2 cooldown 3 
+	Pikachu HP 32 (35 - 3), 
+----------------------Step2----------------------
+Eevee ability1 / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Eevee HP 41 (41 - 0), abilitate 2 cooldown 2 
+	Pikachu HP 27 (32 - 5), 
+----------------------Step3----------------------
+Eevee specialAttack / Pikachu ability2 / 
+Pikachu dodge is active this round
+	Eevee HP 37 (41 - 4), abilitate 2 cooldown 1 
+	Pikachu HP 27 (27 - 0), abilitate 2 cooldown 5 
+----------------------Step4----------------------
+Eevee specialAttack / Pikachu ability1 / 
+Eevee is stunned this round
+	Eevee HP 31 (37 - 6), 
+	Pikachu HP 27 (27 - 0), abilitate 2 cooldown 4 
+----------------------Step5----------------------
+Eevee specialAttack / Pikachu ability1 / 
+	Eevee HP 25 (31 - 6), 
+	Pikachu HP 26 (27 - 1), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+----------------------Step6----------------------
+Eevee ability2 / Pikachu specialAttack / 
+	Eevee HP 25 (25 - 0), abilitate 2 cooldown 3 
+	Pikachu HP 23 (26 - 3), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+----------------------Step7----------------------
+Eevee specialAttack / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Eevee HP 25 (25 - 0), abilitate 2 cooldown 2 
+	Pikachu HP 22 (23 - 1), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+----------------------Step8----------------------
+Eevee specialAttack / Pikachu specialAttack / 
+	Eevee HP 25 (25 - 0), abilitate 2 cooldown 1 
+	Pikachu HP 21 (22 - 1), abilitate 1 cooldown 1 
+----------------------Step9----------------------
+Eevee specialAttack / Pikachu specialAttack / 
+	Eevee HP 25 (25 - 0), 
+	Pikachu HP 20 (21 - 1), 
+----------------------Step10----------------------
+Eevee specialAttack / Pikachu ability1 / 
+	Eevee HP 19 (25 - 6), 
+	Pikachu HP 19 (20 - 1), abilitate 1 cooldown 4 
+----------------------Step11----------------------
+Eevee ability2 / Pikachu specialAttack / 
+	Eevee HP 19 (19 - 0), abilitate 2 cooldown 3 
+	Pikachu HP 16 (19 - 3), abilitate 1 cooldown 3 
+----------------------Step12----------------------
+Eevee ability1 / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Eevee HP 19 (19 - 0), abilitate 2 cooldown 2 
+	Pikachu HP 11 (16 - 5), abilitate 1 cooldown 2 
+----------------------Step13----------------------
+Eevee ability1 / Pikachu specialAttack / 
+	Eevee HP 19 (19 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 1 
+	Pikachu HP 6 (11 - 5), abilitate 1 cooldown 1 
+----------------------Step14----------------------
+Eevee specialAttack / Pikachu specialAttack / 
+	Eevee HP 19 (19 - 0), abilitate 1 cooldown 2 
+	Pikachu HP 5 (6 - 1), 
+----------------------Step15----------------------
+Eevee ability2 / Pikachu ability1 / 
+	Eevee HP 13 (19 - 6), abilitate 1 cooldown 1 abilitate 2 cooldown 3 
+	Pikachu HP 2 (5 - 3), abilitate 1 cooldown 4 
+----------------------Step16----------------------
+Eevee specialAttack / Pikachu specialAttack / 
+Pikachu is stunned this round
+	Eevee HP 13 (13 - 0), abilitate 2 cooldown 2 
+	Pikachu HP 1 (2 - 1), abilitate 1 cooldown 3 
+----------------------Step17----------------------
+Eevee specialAttack / Pikachu ability2 / 
+Pikachu dodge is active this round
+	Eevee HP 9 (13 - 4), abilitate 2 cooldown 1 
+	Pikachu HP 1 (1 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 5 
+----------------------Step18----------------------
+Eevee specialAttack / Pikachu specialAttack / 
+Eevee is stunned this round
+	Eevee HP 9 (9 - 0), 
+	Pikachu HP 1 (1 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 4 
+----------------------Step19----------------------
+Eevee ability1 / Pikachu specialAttack / 
+	Eevee HP 9 (9 - 0), abilitate 1 cooldown 3 
+	Pikachu HP -4 (1 - 5), abilitate 2 cooldown 3 
+S1mple Wins
+[][][][][][][][][][][][][] ROUND3 [][][][][][][][][][][][][]
+Pikachu has these items[(Vesta),(Sabiuta),(Scut)]
++10 hp; +0 specialAttack; +2 defense; +2 specialDefense
+Vulpix has these items[(Sabiuta),(Vitamine),(Pelerina)]
++2 hp; +5 normalAttack; +0 defense; +3 specialDefense
+----------------------Step1----------------------
+Pikachu specialAttack / Vulpix ability2 / 
+Vulpix dodge is active this round
+	Pikachu HP 43 (45 - 2), 
+	Vulpix HP 38 (38 - 0), abilitate 2 cooldown 7 
+----------------------Step2----------------------
+Pikachu ability1 / Vulpix normalAttack / 
+	Pikachu HP 37 (43 - 6), abilitate 1 cooldown 4 
+	Vulpix HP 32 (38 - 6), abilitate 2 cooldown 6 
+----------------------Step3----------------------
+Pikachu specialAttack / Vulpix ability1 / 
+	Pikachu HP 29 (37 - 8), abilitate 1 cooldown 3 
+	Vulpix HP 32 (32 - 0), abilitate 1 cooldown 6 abilitate 2 cooldown 5 
+----------------------Step4----------------------
+Pikachu specialAttack / Vulpix normalAttack / 
+Pikachu is stunned this round
+	Pikachu HP 23 (29 - 6), abilitate 1 cooldown 2 
+	Vulpix HP 32 (32 - 0), abilitate 1 cooldown 5 abilitate 2 cooldown 4 
+----------------------Step5----------------------
+Pikachu ability2 / Vulpix normalAttack / 
+Pikachu dodge is active this round
+	Pikachu HP 23 (23 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 5 
+	Vulpix HP 28 (32 - 4), abilitate 1 cooldown 4 abilitate 2 cooldown 3 
+----------------------Step6----------------------
+Pikachu specialAttack / Vulpix normalAttack / 
+Vulpix is stunned this round
+	Pikachu HP 23 (23 - 0), abilitate 2 cooldown 4 
+	Vulpix HP 28 (28 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 2 
+----------------------Step7----------------------
+Pikachu specialAttack / Vulpix normalAttack / 
+	Pikachu HP 17 (23 - 6), abilitate 2 cooldown 3 
+	Vulpix HP 28 (28 - 0), abilitate 1 cooldown 2 abilitate 2 cooldown 1 
+----------------------Step8----------------------
+Pikachu ability1 / Vulpix normalAttack / 
+	Pikachu HP 11 (17 - 6), abilitate 1 cooldown 4 abilitate 2 cooldown 2 
+	Vulpix HP 22 (28 - 6), abilitate 1 cooldown 1 
+----------------------Step9----------------------
+Pikachu specialAttack / Vulpix normalAttack / 
+	Pikachu HP 5 (11 - 6), abilitate 1 cooldown 3 abilitate 2 cooldown 1 
+	Vulpix HP 22 (22 - 0), 
+----------------------Step10----------------------
+Pikachu specialAttack / Vulpix ability2 / 
+Vulpix dodge is active this round
+	Pikachu HP 3 (5 - 2), abilitate 1 cooldown 2 
+	Vulpix HP 22 (22 - 0), abilitate 2 cooldown 7 
+----------------------Step11----------------------
+Pikachu specialAttack / Vulpix ability1 / 
+	Pikachu HP -5 (3 - 8), abilitate 1 cooldown 1 
+	Vulpix HP 22 (22 - 0), abilitate 1 cooldown 6 abilitate 2 cooldown 6 
+Boombl4 Wins
+[][][][][][][][][][][][][] FINAL ROUND [][][][][][][][][][][][][]
+Eevee has these items[(Scut),(Brad_De_Craciun),(Vesta)]
++10 hp; +0 specialAttack; +3 defense; +2 specialDefense
+Vulpix has these items[(Scut),(Brad_De_Craciun),(Vesta)]
++10 hp; +3 normalAttack; +3 defense; +2 specialDefense
+----------------------Step1----------------------
+Eevee ability2 / Vulpix normalAttack / 
+	Eevee HP 47 (49 - 2), abilitate 2 cooldown 3 
+	Vulpix HP 43 (46 - 3), 
+----------------------Step2----------------------
+Eevee ability1 / Vulpix normalAttack / 
+Vulpix is stunned this round
+	Eevee HP 47 (47 - 0), abilitate 2 cooldown 2 
+	Vulpix HP 38 (43 - 5), 
+----------------------Step3----------------------
+Eevee specialAttack / Vulpix ability2 / 
+Vulpix dodge is active this round
+	Eevee HP 45 (47 - 2), abilitate 2 cooldown 1 
+	Vulpix HP 38 (38 - 0), abilitate 2 cooldown 7 
+----------------------Step4----------------------
+Eevee specialAttack / Vulpix normalAttack / 
+	Eevee HP 43 (45 - 2), 
+	Vulpix HP 38 (38 - 0), abilitate 2 cooldown 6 
+----------------------Step5----------------------
+Eevee ability1 / Vulpix normalAttack / 
+	Eevee HP 41 (43 - 2), abilitate 1 cooldown 3 
+	Vulpix HP 33 (38 - 5), abilitate 2 cooldown 5 
+----------------------Step6----------------------
+Eevee specialAttack / Vulpix ability1 / 
+	Eevee HP 33 (41 - 8), abilitate 1 cooldown 2 
+	Vulpix HP 33 (33 - 0), abilitate 1 cooldown 6 abilitate 2 cooldown 4 
+----------------------Step7----------------------
+Eevee specialAttack / Vulpix normalAttack / 
+Eevee is stunned this round
+	Eevee HP 31 (33 - 2), abilitate 1 cooldown 1 
+	Vulpix HP 33 (33 - 0), abilitate 1 cooldown 5 abilitate 2 cooldown 3 
+----------------------Step8----------------------
+Eevee specialAttack / Vulpix normalAttack / 
+	Eevee HP 29 (31 - 2), 
+	Vulpix HP 33 (33 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 2 
+----------------------Step9----------------------
+Eevee specialAttack / Vulpix normalAttack / 
+	Eevee HP 27 (29 - 2), 
+	Vulpix HP 33 (33 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 1 
+----------------------Step10----------------------
+Eevee ability2 / Vulpix normalAttack / 
+	Eevee HP 25 (27 - 2), abilitate 2 cooldown 3 
+	Vulpix HP 30 (33 - 3), abilitate 1 cooldown 2 
+----------------------Step11----------------------
+Eevee ability1 / Vulpix normalAttack / 
+Vulpix is stunned this round
+	Eevee HP 25 (25 - 0), abilitate 2 cooldown 2 
+	Vulpix HP 25 (30 - 5), abilitate 1 cooldown 1 
+----------------------Step12----------------------
+Eevee ability1 / Vulpix normalAttack / 
+	Eevee HP 23 (25 - 2), abilitate 1 cooldown 3 abilitate 2 cooldown 1 
+	Vulpix HP 20 (25 - 5), 
+----------------------Step13----------------------
+Eevee specialAttack / Vulpix ability1 / 
+	Eevee HP 15 (23 - 8), abilitate 1 cooldown 2 
+	Vulpix HP 20 (20 - 0), abilitate 1 cooldown 6 
+----------------------Step14----------------------
+Eevee specialAttack / Vulpix ability2 / 
+Eevee is stunned this round
+	Eevee HP 13 (15 - 2), abilitate 1 cooldown 1 
+	Vulpix HP 20 (20 - 0), abilitate 1 cooldown 5 
+----------------------Step15----------------------
+Eevee specialAttack / Vulpix ability2 / 
+Vulpix dodge is active this round
+	Eevee HP 11 (13 - 2), 
+	Vulpix HP 20 (20 - 0), abilitate 1 cooldown 4 abilitate 2 cooldown 7 
+----------------------Step16----------------------
+Eevee specialAttack / Vulpix normalAttack / 
+	Eevee HP 9 (11 - 2), 
+	Vulpix HP 20 (20 - 0), abilitate 1 cooldown 3 abilitate 2 cooldown 6 
+----------------------Step17----------------------
+Eevee ability1 / Vulpix normalAttack / 
+	Eevee HP 7 (9 - 2), abilitate 1 cooldown 3 
+	Vulpix HP 15 (20 - 5), abilitate 1 cooldown 2 abilitate 2 cooldown 5 
+----------------------Step18----------------------
+Eevee ability2 / Vulpix normalAttack / 
+	Eevee HP 5 (7 - 2), abilitate 1 cooldown 2 abilitate 2 cooldown 3 
+	Vulpix HP 12 (15 - 3), abilitate 1 cooldown 1 abilitate 2 cooldown 4 
+----------------------Step19----------------------
+Eevee specialAttack / Vulpix normalAttack / 
+Vulpix is stunned this round
+	Eevee HP 5 (5 - 0), abilitate 1 cooldown 1 abilitate 2 cooldown 2 
+	Vulpix HP 12 (12 - 0), abilitate 2 cooldown 3 
+----------------------Step20----------------------
+Eevee specialAttack / Vulpix normalAttack / 
+	Eevee HP 3 (5 - 2), abilitate 2 cooldown 1 
+	Vulpix HP 12 (12 - 0), abilitate 2 cooldown 2 
+----------------------Step21----------------------
+Eevee specialAttack / Vulpix ability1 / 
+	Eevee HP -5 (3 - 8), 
+	Vulpix HP 12 (12 - 0), abilitate 1 cooldown 6 abilitate 2 cooldown 1 
+Boombl4 Wins
+The battle was won by Boombl4
+
